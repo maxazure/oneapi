@@ -31,7 +31,7 @@ var ChannelBaseURLs = []string{
 	"https://api.minimax.chat",                  // 27
 	"https://api.mistral.ai",                    // 28
 	"https://api.groq.com/openai",               // 29
-	"http://localhost:11434",                    // 30
+	"http://192.168.31.129:11434",               // 30
 	"https://api.lingyiwanwu.com",               // 31
 	"https://api.stepfun.com",                   // 32
 	"",                                          // 33
